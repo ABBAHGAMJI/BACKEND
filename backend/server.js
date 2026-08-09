@@ -70,4 +70,4 @@ if (require.main === module) {
   app.listen(PORT, () => console.log(`ABBAHGAMJI API running on port ${PORT}`));
 }
 
-module.exports = require('../server';
+module.exports = app;
